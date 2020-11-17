@@ -16,3 +16,10 @@ Something else
 =======
 what's up!!! wooohooo
 >>>>>>> 92ec144de216c053d85802fdae397a80d57b5953
+
+
+```{r}
+#some code
+1+1
+```
+
