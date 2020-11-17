@@ -11,4 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Something and more something
 
+<<<<<<< HEAD
 Something else
+=======
+what's up!!! wooohooo
+>>>>>>> 92ec144de216c053d85802fdae397a80d57b5953
